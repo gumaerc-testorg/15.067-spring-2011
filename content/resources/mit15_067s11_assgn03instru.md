@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding oil pricing game instructions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-067-competitive-decision-making-and-negotiation-spring-2011/0cc260d15953d93eb057682468ac3b52_MIT15_067S11_assgn03instru.pdf
+file: /media/courses/15-067-competitive-decision-making-and-negotiation-spring-2011/0cc260d15953d93eb057682468ac3b52_MIT15_067S11_assgn03instru.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Assignment 3 Oil pricing game instructions
 uid: 0cc260d1-5953-d93e-b057-682468ac3b52

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'This resource contains information related to class 11. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-067-competitive-decision-making-and-negotiation-spring-2011/b2eb8e667ad8472dee58179ba11e58ec_MIT15_067S11_Cl11_F_E_RE.pdf
+file: /media/courses/15-067-competitive-decision-making-and-negotiation-spring-2011/b2eb8e667ad8472dee58179ba11e58ec_MIT15_067S11_Cl11_F_E_RE.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Class 11 Flagship vs. Eureka: Results'
 uid: b2eb8e66-7ad8-472d-ee58-179ba11e58ec

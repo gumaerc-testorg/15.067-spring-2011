@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 32431b9f-fa84-2e2f-9498-72465c3dc16f
 ---
@@ -51,11 +53,11 @@ Example 2: Mixed Motive Bargaining. A mixed motive bargain is one in which you a
 
 The answer is to compute the Z-_score_. Here is how it works. Suppose that the average net gain above WineMaster.com's best alternative to no agreement is found to be $650K with a standard deviation of $1200K. You, as a WineMaster negotiator, have achieved a net gain of $750K. Your Z-score is your raw score, $750K, minus the average of all net gains in your role, $650K, divided by the standard deviation of raw scores achieved by all who played your role, $1200K, or
 
-ZYOU = ($750 — $650) / $1200 = .083.
+Z{{< sub "YOU" >}} = ($750 — $650) / $1200 = .083.
 
 Your counterpart at HomePage.com achieved a net gain of $1200K. The average of all HomePage.com net gains is $1100K with standard deviation $1600K. Then the Z-score for your negotiating counterpart is
 
-ZCOUNTERPART = ($1200 — $1100) / $1600 = .0625.
+Z{{< sub "COUNTERPART" >}} = ($1200 — $1100) / $1600 = .0625.
 
 You received a recorded score of .083 and your counterpart receives a recorded score of .0625. Both of you scored higher than the mean. These scores are, in part, a measure of your negotiating skill and in part a measure of luck and the particular fashion in which your negotiating style meshed with that of your negotiating partner.
 

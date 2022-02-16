@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information related to class 3.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-067-competitive-decision-making-and-negotiation-spring-2011/07752e8616e0532e7beb4133431842dc_MIT15_067S11_Cl3_O_Pr_G_RE.pdf
+file: /media/courses/15-067-competitive-decision-making-and-negotiation-spring-2011/07752e8616e0532e7beb4133431842dc_MIT15_067S11_Cl3_O_Pr_G_RE.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Class 3 Oil Price Game: Results'
 uid: 07752e86-16e0-532e-7beb-4133431842dc
