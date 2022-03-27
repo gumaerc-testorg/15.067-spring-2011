@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0ebbd238-3ebb-f9f8-921b-159023f2ff9d
 resourcetype: Document
 title: 'Class 5 Jessie Jumpshot: Results'
 uid: 4f0046e8-968f-e197-d266-3e83d5268fd0

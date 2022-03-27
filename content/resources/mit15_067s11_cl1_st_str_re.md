@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0ebbd238-3ebb-f9f8-921b-159023f2ff9d
 resourcetype: Document
 title: 'Class 1 Street Streaker: Results'
 uid: 3ecc5b0d-aa7e-12ee-cc27-872d8f98ddcf

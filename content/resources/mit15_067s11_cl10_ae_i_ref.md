@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0ebbd238-3ebb-f9f8-921b-159023f2ff9d
 resourcetype: Document
 title: 'Class 10 Aerospace Investment: Results - Founder'
 uid: 1fab9923-9c60-d55c-84ea-baee48673fbc

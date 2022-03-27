@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0ebbd238-3ebb-f9f8-921b-159023f2ff9d
 resourcetype: Document
 title: 'Class 13 Vitabeer: Results'
 uid: b827db3e-7d6c-9f90-2a33-425dd7c5933d

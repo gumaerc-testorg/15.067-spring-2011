@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0ebbd238-3ebb-f9f8-921b-159023f2ff9d
 resourcetype: Document
 title: 'Class 2 Salt Harbor: Preparation - Easterly'
 uid: 53f9696b-ad91-7115-6012-59ea4e8a688c

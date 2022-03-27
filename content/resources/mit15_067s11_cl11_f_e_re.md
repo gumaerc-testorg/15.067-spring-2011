@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0ebbd238-3ebb-f9f8-921b-159023f2ff9d
 resourcetype: Document
 title: 'Class 11 Flagship vs. Eureka: Results'
 uid: b2eb8e66-7ad8-472d-ee58-179ba11e58ec

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0ebbd238-3ebb-f9f8-921b-159023f2ff9d
 resourcetype: Document
 title: Class 3 Alpert-Raiffa Experiment No. 2
 uid: dd47931e-a81f-1503-7117-cfdf3fda2956

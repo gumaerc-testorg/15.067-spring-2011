@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0ebbd238-3ebb-f9f8-921b-159023f2ff9d
 resourcetype: Document
 title: 'Class 11 Hong Kong vs. MegaMarket USA: Results'
 uid: 8d56c820-6d56-0ea7-54eb-d566c1edcc4c

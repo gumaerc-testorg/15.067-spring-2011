@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0ebbd238-3ebb-f9f8-921b-159023f2ff9d
 resourcetype: Document
 title: 'Class 4 Nelson vs. Amstore: Preparation'
 uid: 548b3608-1d47-aa26-caf7-b28ae76f434a

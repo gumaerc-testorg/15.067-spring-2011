@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0ebbd238-3ebb-f9f8-921b-159023f2ff9d
 resourcetype: Document
 title: Assignment 11 Flagship slides
 uid: db4cc4b1-11b2-db2f-ddc8-6fbab16bc22b

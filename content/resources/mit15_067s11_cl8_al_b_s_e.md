@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0ebbd238-3ebb-f9f8-921b-159023f2ff9d
 resourcetype: Document
 title: 'Class 8 Alphexo Betonn: Subjective Evaluation'
 uid: e0f575bc-4df9-5c26-f20f-7ee5e0f38c47

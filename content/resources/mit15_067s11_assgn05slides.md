@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0ebbd238-3ebb-f9f8-921b-159023f2ff9d
 resourcetype: Document
 title: Assignment 5 Jessie Jumpshot slides
 uid: 45b72539-fb15-99bc-0741-0ee147b932c4

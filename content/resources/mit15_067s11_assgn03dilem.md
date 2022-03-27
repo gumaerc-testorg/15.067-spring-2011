@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0ebbd238-3ebb-f9f8-921b-159023f2ff9d
 resourcetype: Document
 title: "Assignment 3 Prisoner\u2019s dilemma slides"
 uid: 4a412d2d-a315-1f20-132f-efa28d22292f

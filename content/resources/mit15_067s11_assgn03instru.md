@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0ebbd238-3ebb-f9f8-921b-159023f2ff9d
 resourcetype: Document
 title: Assignment 3 Oil pricing game instructions
 uid: 0cc260d1-5953-d93e-b057-682468ac3b52

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0ebbd238-3ebb-f9f8-921b-159023f2ff9d
 resourcetype: Document
 title: Class 1 Alper-Raiffa Experiment
 uid: 6b5ff733-6327-faaf-fded-aa1574abbf5f

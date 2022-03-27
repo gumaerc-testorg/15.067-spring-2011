@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0ebbd238-3ebb-f9f8-921b-159023f2ff9d
 resourcetype: Document
 title: 'Class 7 The Stakes of Engagement: Preparation - Jacques Parker'
 uid: 9deef65a-8c93-90f6-c25e-aecce2b4849a

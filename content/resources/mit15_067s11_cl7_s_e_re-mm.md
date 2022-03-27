@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0ebbd238-3ebb-f9f8-921b-159023f2ff9d
 resourcetype: Document
 title: 'Class 7 The Stakes of Engagement: Results - Marlene Mayberry'
 uid: 7deaeeae-2a4a-140c-c259-c019f435decb

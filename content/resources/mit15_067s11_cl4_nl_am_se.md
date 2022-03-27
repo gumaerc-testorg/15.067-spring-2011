@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0ebbd238-3ebb-f9f8-921b-159023f2ff9d
 resourcetype: Document
 title: 'Class 4 Nelson vs. Amstore: Subjective Evaluation'
 uid: 66af8a57-b606-a7a3-db5b-f4494d63bbc9

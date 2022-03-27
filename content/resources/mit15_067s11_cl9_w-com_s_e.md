@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0ebbd238-3ebb-f9f8-921b-159023f2ff9d
 resourcetype: Document
 title: 'Class 9 Winemaster.com: Subjective Evaluation'
 uid: ae14da9f-40e5-7596-82bf-9d747b6ffb80
