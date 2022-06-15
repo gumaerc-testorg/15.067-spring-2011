@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on course format, deliverables, negotiations, grading, honesty and learning, and
+  the list of course topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
