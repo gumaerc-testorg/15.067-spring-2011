@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section includes a calendar which lists topics, cases, types of
+  negotiations covered, and key dates for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: f3b901f4-d102-43b4-13d7-65882a43aed7
 ---
