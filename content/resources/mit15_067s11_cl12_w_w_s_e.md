@@ -5,6 +5,7 @@ file: /courses/15-067-competitive-decision-making-and-negotiation-spring-2011/92
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Class 12 Welsh Water: Subjective Evaluation'
 uid: 92a50176-ed22-ddcb-ca03-8e221d86f965
 ---
 This resource contains information related to class 12.
-

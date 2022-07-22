@@ -5,6 +5,7 @@ file: /courses/15-067-competitive-decision-making-and-negotiation-spring-2011/8d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Class 11 Hong Kong vs. MegaMarket USA: Results'
 uid: 8d56c820-6d56-0ea7-54eb-d566c1edcc4c
 ---
 This resource contains information related to class 11.
-

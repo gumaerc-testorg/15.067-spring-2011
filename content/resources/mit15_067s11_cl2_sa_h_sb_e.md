@@ -5,6 +5,7 @@ file: /courses/15-067-competitive-decision-making-and-negotiation-spring-2011/91
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Class 2 Salt Harbor: Subjective Evaluation'
 uid: 918782f4-9822-0332-561c-f321fe4283a0
 ---
 This resource contains information related to class 2.
-

@@ -5,6 +5,7 @@ file: /courses/15-067-competitive-decision-making-and-negotiation-spring-2011/4a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "Assignment 3 Prisoner\u2019s dilemma slides"
 uid: 4a412d2d-a315-1f20-132f-efa28d22292f
 ---
 This file contains information regarding prisoner’s dilemma slides.
-

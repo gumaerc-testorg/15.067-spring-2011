@@ -5,6 +5,7 @@ file: /courses/15-067-competitive-decision-making-and-negotiation-spring-2011/e0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Class 8 Alphexo Betonn: Subjective Evaluation'
 uid: e0f575bc-4df9-5c26-f20f-7ee5e0f38c47
 ---
 This resource contains information related to class 8.
-

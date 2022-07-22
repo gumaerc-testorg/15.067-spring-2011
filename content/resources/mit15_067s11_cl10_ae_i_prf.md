@@ -5,6 +5,7 @@ file: /courses/15-067-competitive-decision-making-and-negotiation-spring-2011/7b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Class 10 Aerospace Investment: Preparation - Founder'
 uid: 7bffa5b7-7992-a5cd-fd2b-adf6d2e03de4
 ---
 This resource contains information related to class 10.
-

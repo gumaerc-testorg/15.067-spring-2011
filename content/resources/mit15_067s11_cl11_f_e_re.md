@@ -5,6 +5,7 @@ file: /courses/15-067-competitive-decision-making-and-negotiation-spring-2011/b2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Class 11 Flagship vs. Eureka: Results'
 uid: b2eb8e66-7ad8-472d-ee58-179ba11e58ec
 ---
 This resource contains information related to class 11. 
-

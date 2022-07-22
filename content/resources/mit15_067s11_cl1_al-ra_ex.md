@@ -5,6 +5,7 @@ file: /courses/15-067-competitive-decision-making-and-negotiation-spring-2011/6b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Class 1 Alper-Raiffa Experiment
 uid: 6b5ff733-6327-faaf-fded-aa1574abbf5f
 ---
 This resource contains information related to class 1.
-

@@ -5,6 +5,7 @@ file: /courses/15-067-competitive-decision-making-and-negotiation-spring-2011/97
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Class 13 Vitabeer: Subjective Evaluation'
 uid: 97691b5f-124c-ed58-dd33-3c5bd5330ac9
 ---
 This resource contains information related to class 13.
-
