@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to class 10.
 file: /courses/15-067-competitive-decision-making-and-negotiation-spring-2011/1fab99239c60d55c84eabaee48673fbc_MIT15_067S11_Cl10_Ae_I_REF.pdf
+file_size: 97546
 file_type: application/pdf
 learning_resource_types:
 - Assignments
