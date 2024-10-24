@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to class 9. '
-file: /courses/15-067-competitive-decision-making-and-negotiation-spring-2011/76dc43ebd6c51bb66a8096944a114146_MIT15_067S11_Cl9_W.com_PRH.pdf
+file: /ol-ocw-studio-app/courses/15-067-competitive-decision-making-and-negotiation-spring-2011/76dc43ebd6c51bb66a8096944a114146_MIT15_067S11_Cl9_W.com_PRH.pdf
 file_size: 59955
 file_type: application/pdf
 learning_resource_types:

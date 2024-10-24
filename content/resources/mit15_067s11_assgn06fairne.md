@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding principles for fairness.
-file: /courses/15-067-competitive-decision-making-and-negotiation-spring-2011/e70dde547a398ae63ee5f4af57bd6dab_MIT15_067S11_assgn06fairne.pdf
+file: /ol-ocw-studio-app/courses/15-067-competitive-decision-making-and-negotiation-spring-2011/e70dde547a398ae63ee5f4af57bd6dab_MIT15_067S11_assgn06fairne.pdf
 file_size: 671151
 file_type: application/pdf
 learning_resource_types:
