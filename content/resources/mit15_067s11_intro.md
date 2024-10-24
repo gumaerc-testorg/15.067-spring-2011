@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lecture 1.
-file: /courses/15-067-competitive-decision-making-and-negotiation-spring-2011/4507176248e8479577ffe4233bb224c6_MIT15_067S11_intro.pdf
+file: /ol-ocw-studio-app/courses/15-067-competitive-decision-making-and-negotiation-spring-2011/4507176248e8479577ffe4233bb224c6_MIT15_067S11_intro.pdf
 file_size: 650364
 file_type: application/pdf
 learning_resource_types:
