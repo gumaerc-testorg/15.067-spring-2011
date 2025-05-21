@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to class 4.
-file: /ol-ocw-studio-app/courses/15-067-competitive-decision-making-and-negotiation-spring-2011/548b36081d47aa26caf7b28ae76f434a_MIT15_067S11_Cl4_Nel_Am_PR.pdf
+file: /courses/15-067-competitive-decision-making-and-negotiation-spring-2011/548b36081d47aa26caf7b28ae76f434a_MIT15_067S11_Cl4_Nel_Am_PR.pdf
 file_size: 58460
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to class 10.
-file: /ol-ocw-studio-app/courses/15-067-competitive-decision-making-and-negotiation-spring-2011/7bffa5b77992a5cdfd2badf6d2e03de4_MIT15_067S11_Cl10_Ae_I_PRF.pdf
+file: /courses/15-067-competitive-decision-making-and-negotiation-spring-2011/7bffa5b77992a5cdfd2badf6d2e03de4_MIT15_067S11_Cl10_Ae_I_PRF.pdf
 file_size: 87272
 file_type: application/pdf
 learning_resource_types:
