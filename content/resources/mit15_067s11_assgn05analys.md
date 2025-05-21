@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding assignment 5.
-file: /ol-ocw-studio-app/courses/15-067-competitive-decision-making-and-negotiation-spring-2011/f8a7e0f474ebd0f89ad7553b85e2f945_MIT15_067S11_assgn05analys.pdf
+file: /courses/15-067-competitive-decision-making-and-negotiation-spring-2011/f8a7e0f474ebd0f89ad7553b85e2f945_MIT15_067S11_assgn05analys.pdf
 file_size: 552240
 file_type: application/pdf
 learning_resource_types:

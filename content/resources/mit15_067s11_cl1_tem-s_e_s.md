@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to class 1.
-file: /ol-ocw-studio-app/courses/15-067-competitive-decision-making-and-negotiation-spring-2011/42b0166faef72cd225ff80a837e57a83_MIT15_067S11_Cl1_tem-S_E_S.pdf
+file: /courses/15-067-competitive-decision-making-and-negotiation-spring-2011/42b0166faef72cd225ff80a837e57a83_MIT15_067S11_Cl1_tem-S_E_S.pdf
 file_size: 67657
 file_type: application/pdf
 learning_resource_types:
