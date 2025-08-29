@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to class 13.
-file: /courses/15-067-competitive-decision-making-and-negotiation-spring-2011/97691b5f124ced58dd333c5bd5330ac9_MIT15_067S11_Cl13_Vita_S_E.pdf
+file: /ol-ocw-studio-app/courses/15-067-competitive-decision-making-and-negotiation-spring-2011/97691b5f124ced58dd333c5bd5330ac9_MIT15_067S11_Cl13_Vita_S_E.pdf
 file_size: 93608
 file_type: application/pdf
 learning_resource_types:
