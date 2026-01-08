@@ -49,9 +49,9 @@ _Street Streaker_
 
 \[Thompson\] Chapter 1: "Negotiation: The Mind and the Heart," and Chapter 2: "Preparation: What to Do Before Negotiation."
 
-Wu, George. "{{% resource_link "a65942d8-b5b4-4285-8285-31686a2959f0" "Anchoring & First Offers in Negotiation" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9–895–070, April 26, 1995.
+Wu, George. "[Anchoring & First Offers in Negotiation](https://cb.hbsp.harvard.edu/cbmp/product/895070-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9–895–070, April 26, 1995.
 
-Raiffa, Howard, James K. Sebenius, et al. "{{% resource_link "f85b8cb4-9a0d-4e23-8af2-eb76ccc3a83e" "Wheeling and Dealing: The Zirconia GT" %}}." Harvard Business School Cases. Harvard Business School Publishing. Case: 9–895–013, November 23, 1994.
+Raiffa, Howard, James K. Sebenius, et al. "[Wheeling and Dealing: The Zirconia GT](https://cb.hbsp.harvard.edu/cbmp/product/895013-PDF-ENG)." Harvard Business School Cases. Harvard Business School Publishing. Case: 9–895–013, November 23, 1994.
 
 
 {{< tdclose >}}
@@ -69,11 +69,11 @@ _Salt Harbor_
 
 \[Thompson\] Chapter 3: "Distributive Negotiation: Slicing the Pie."
 
-Carr, Albert Z. "{{% resource_link "1b940d33-41c7-4ba1-823a-08239d083e86" "Is Business Bluffing Ethical?" %}}" Harvard Business School Case. Harvard Business School Publishing. Case: 1–391–298, Jan 01, 1968.
+Carr, Albert Z. "[Is Business Bluffing Ethical?](https://cb.hbsp.harvard.edu/cbmp/product/68102-PDF-ENG)" Harvard Business School Case. Harvard Business School Publishing. Case: 1–391–298, Jan 01, 1968.
 
-Shell, G. Richard. "{{% resource_link "83e76b2a-64d4-4b52-bb7e-7f25f1ffca53" "When is it Legal to Lie in Negotiation?" %}}" _Sloan Management Review_, April 1991, 93.
+Shell, G. Richard. "[When is it Legal to Lie in Negotiation?](http://sloanreview.mit.edu/article/when-is-it-legal-to-lie-in-negotiations/)" _Sloan Management Review_, April 1991, 93.
 
-Adler, Robert. "{{% resource_link "ab3481b2-8504-4c1a-b2ef-e8048d9b11b1" "Negotiating with Liars" %}}." _Sloan Management Review_, July 2007.
+Adler, Robert. "[Negotiating with Liars](http://sloanreview.mit.edu/article/negotiating-with-liars/)." _Sloan Management Review_, July 2007.
 
 "Salt Harbor (A)." Harvard Business School Case. Harvard Business School Publishing. Case: 9–800–077.
 
@@ -146,7 +146,7 @@ National Basketball League_
 
 \[Thompson\] Chapter 4, and Chapter 8: pp. 89–91, and pp. 191–4.
 
-Bazerman, Max H., and James J. Gillespie. "{{% resource_link "c0d42794-bcb1-4983-8456-2d9eba5c1d4f" "Betting on the Future: The Virtues of Contingent Contracts" %}}." Harvard Business School Cases. Harvard Business School Publishing. Case: 99501, Sep 01, 1999.
+Bazerman, Max H., and James J. Gillespie. "[Betting on the Future: The Virtues of Contingent Contracts](https://cb.hbsp.harvard.edu/cbmp/product/99501-PDF-ENG)." Harvard Business School Cases. Harvard Business School Publishing. Case: 99501, Sep 01, 1999.
 
 "Jessie Jumpshot (B–1), Boston Sharks." Harvard Business School Case. Harvard Business School Publishing. Case: 9–801–251.
 
@@ -154,11 +154,11 @@ Bazerman, Max H., and James J. Gillespie. "{{% resource_link "c0d42794-bcb1-4983
 
 "Jessie Jumpshot (B–3), Jumpshot's Agent." Harvard Business School Case. Harvard Business School Publishing. Case: 9–801–253.
 
-Sebenius, James K., Ian I. Larkin, et al. "{{% resource_link "5d57fa46-fdcd-4efb-b991-b275241d24d8" "Negotiating Star Compensation at the USAWBL (A–1): Confidential Instructions for Jesse J" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 906–026, January 05, 2006. (Revised October 2009.)
+Sebenius, James K., Ian I. Larkin, et al. "[Negotiating Star Compensation at the USAWBL (A–1): Confidential Instructions for Jesse J](https://cb.hbsp.harvard.edu/cbmp/product/906026-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 906–026, January 05, 2006. (Revised October 2009.)
 
-———. "{{% resource_link "64fbfbd0-e89f-492d-9d10-cef480ea4cf1" "Negotiating Star Compensation at the USAWBL (A–2): Confidential Instructions for the Boston Sharks General Manager." %}}" Harvard Business School Case. Harvard Business School Publishing. Supplement: 906–027, January 05, 2006. (Revised October 2009.)
+———. "[Negotiating Star Compensation at the USAWBL (A–2): Confidential Instructions for the Boston Sharks General Manager.](https://cb.hbsp.harvard.edu/cbmp/product/906027-PDF-ENG)" Harvard Business School Case. Harvard Business School Publishing. Supplement: 906–027, January 05, 2006. (Revised October 2009.)
 
-———."{{% resource_link "408f343e-b1f4-4a04-a06e-83ae022d576e" "Negotiating Star Compensation at the USAWBL (A–3): Confidential Instructions for Jesse J's Agent" %}}." Harvard Business School Case. Harvard Business School Publishing. Supplement: 906–028, January 05, 2006. (Revised October 2009.)
+———."[Negotiating Star Compensation at the USAWBL (A–3): Confidential Instructions for Jesse J's Agent](https://cb.hbsp.harvard.edu/cbmp/product/906028-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Supplement: 906–028, January 05, 2006. (Revised October 2009.)
 
 
 {{< tdclose >}}
@@ -180,7 +180,7 @@ Raiffa, Howard. _Lectures on Negotiation Analysis_, Program on Negotiation at th
 
 ### Suggested Reading
 
-Brams, Steven J., and Alan D. Taylor. _Fair Division: From Cake Cutting to Dispute Resolution_. Cambridge University Press, 1996. ISBN: 9780521556446. \[Preview with {{% resource_link "84a6d545-6c2d-4ead-a62b-3aa3163f351e" "Google Books" %}}\]
+Brams, Steven J., and Alan D. Taylor. _Fair Division: From Cake Cutting to Dispute Resolution_. Cambridge University Press, 1996. ISBN: 9780521556446. \[Preview with [Google Books](http://books.google.com/books?id=cLUA-sRhJ5QC&printsec=frontcover)\]
 
 
 {{< tdclose >}}
@@ -198,7 +198,7 @@ _Stakes of Engagement_
 
 \[Thompson\] Chapter 5: "Developing a Negotiating Style."
 
-General Instructions for Both Parties: Sabin, Nicholas. "{{% resource_link "2b28c060-1b13-49f5-847e-4675161c50a1" "The Stakes of Engagement" %}}." Program on Negotiation at the Harvard Law School.
+General Instructions for Both Parties: Sabin, Nicholas. "[The Stakes of Engagement](http://www.pon.harvard.edu/shop/stakes-of-engagement-the-2/)." Program on Negotiation at the Harvard Law School.
 
 ### Suggested Reading
 
@@ -218,11 +218,11 @@ _Alphexo vs. Betonn Corporation_
 {{< tdopen >}}
 
 
-Sebenius, James K. "{{% resource_link "587978b4-1e3e-48f1-b7d5-c1d02699afc5" "Alphexo Corporation: Confidential Negotiation Information" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9–801–418, May 01, 2001.
+Sebenius, James K. "[Alphexo Corporation: Confidential Negotiation Information](https://cb.hbsp.harvard.edu/cbmp/product/801418-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9–801–418, May 01, 2001.
 
-———. "{{% resource_link "364c2841-f1e6-40b1-9aa1-75a4dbeb7b2d" "Betonn Corporation: Confidential Negotiation Information" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9–801–419,
+———. "[Betonn Corporation: Confidential Negotiation Information](https://cb.hbsp.harvard.edu/cbmp/product/801419-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9–801–419,
 
-———. "{{% resource_link "5a3b24a8-b82a-4e6c-97a3-e8451efbcc56" "Six Habits of Merely Effective Negotiators" %}}." _Harvard Business Review_ 79, no. 4 (2001): 87–95.
+———. "[Six Habits of Merely Effective Negotiators](http://hbr.org/2001/04/six-habits-of-merely-effective-negotiators/ar/1)." _Harvard Business Review_ 79, no. 4 (2001): 87–95.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -236,9 +236,9 @@ _WineMaster.com_
 {{< tdopen >}}
 
 
-Subramanian, Guhan. "{{% resource_link "ae6bb76d-f41f-4c96-a160-13ec9e958d38" "Winemaster.com (A–1), Confidential Instructions for Winemaster" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9–800–249, January 04, 2000.
+Subramanian, Guhan. "[Winemaster.com (A–1), Confidential Instructions for Winemaster](https://cb.hbsp.harvard.edu/cbmp/product/800249-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9–800–249, January 04, 2000.
 
-———. "{{% resource_link "8883f14c-4844-429d-9d7b-78ed01090b13" "Winemaster.com (A–2), Confidential Instructions for HomeBase" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9–800–250, January 04, 2000.
+———. "[Winemaster.com (A–2), Confidential Instructions for HomeBase](https://cb.hbsp.harvard.edu/cbmp/product/800250-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9–800–250, January 04, 2000.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -254,7 +254,7 @@ _Aerospace Investment_
 
 \[Thompson\] Chapter 5: "Discussion of Emotions and Emotional Intelligence."
 
-Sabin, Nicholas. "{{% resource_link "04a79962-73dd-406c-aad4-7c37f8cebe9b" "Aerospace Investment: Balancing Venture and Relationship Capital" %}}." Program on Negotiation at the Harvard Law School.
+Sabin, Nicholas. "[Aerospace Investment: Balancing Venture and Relationship Capital](http://www.pon.harvard.edu/shop/aerospace-investment/)." Program on Negotiation at the Harvard Law School.
 
 
 {{< tdclose >}}
@@ -272,7 +272,7 @@ _Flagship_
 
 \[Thompson\] Chapter 9: "Team Negotiation", and "Intergroup Negotiation." pp. 230–234, and pp. 235–40.
 
-General Information: Moore, Paddy, Hal Movius and Lawrence Susskind. "{{% resource_link "cd4f75bc-545f-4b2f-85ae-51095a2c2e89" "Flagship Airways" %}}." Program on Negotiation at the Harvard Law School.
+General Information: Moore, Paddy, Hal Movius and Lawrence Susskind. "[Flagship Airways](http://www.pon.harvard.edu/shop/flagship-airways/)." Program on Negotiation at the Harvard Law School.
 
 
 {{< tdclose >}}
@@ -288,17 +288,17 @@ _Welsh Water_
 {{< tdopen >}}
 
 
-Robinson, Robert J. "{{% resource_link "61e8a89c-0a0e-4f49-8d2f-35cfa6c016ef" "Welsh Water (A)" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9–895–040, June 29, 1995.
+Robinson, Robert J. "[Welsh Water (A)](https://cb.hbsp.harvard.edu/cbmp/product/895040-PDF-ENG#)." Harvard Business School Case. Harvard Business School Publishing. Case: 9–895–040, June 29, 1995.
 
-———. "{{% resource_link "eaa6ca8b-f3fb-42a5-9601-f1594b0d584c" "Welsh Water (B)" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9–895–041, June 29, 1995.
+———. "[Welsh Water (B)](https://cb.hbsp.harvard.edu/cbmp/product/895041-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9–895–041, June 29, 1995.
 
-———. "{{% resource_link "3d32a9b6-5b84-4dd5-8fb2-b7f4855d1425" "Welsh Water (C)" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9–895–042, June 29, 1995.
+———. "[Welsh Water (C)](https://cb.hbsp.harvard.edu/cbmp/product/895042-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9–895–042, June 29, 1995.
 
-———. "{{% resource_link "c5a96f30-c242-443a-b82a-57e0e0dbce32" "Welsh Water (D)" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9–895–043, June 29, 1995
+———. "[Welsh Water (D)](https://cb.hbsp.harvard.edu/cbmp/product/895043-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9–895–043, June 29, 1995
 
-———. "{{% resource_link "85ce60a3-7855-4f71-935c-38085da4ef90" "Welsh Water (E)" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9–895–044, June 29, 1995.
+———. "[Welsh Water (E)](https://cb.hbsp.harvard.edu/cbmp/product/895044-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9–895–044, June 29, 1995.
 
-———. "{{% resource_link "3c92a20a-ddf8-4e80-b27a-351b87f81e9e" "Welsh Water (F): Postscript" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9–895–045, June 29, 1995.
+———. "[Welsh Water (F): Postscript](https://cb.hbsp.harvard.edu/cbmp/product/895045-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9–895–045, June 29, 1995.
 {{< tdclose >}}
 
 {{< trclose >}}
